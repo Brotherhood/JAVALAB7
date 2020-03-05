@@ -3,6 +3,7 @@ package edu.cscc;
 import java.util.*;
 
 /**
+ * TEST FOR GIT 
  * Main for Rock, Paper, Scissors, Lizard, Spock
  */
 public class Main {
